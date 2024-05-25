@@ -1,0 +1,11 @@
+.main-container {
+  margin-top: 80px; /* Adjust this value to match the height of your navigation bar */
+}
+
+app-navigation-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  /* Other styling as needed */
+}
